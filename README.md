@@ -1,5 +1,4 @@
-This project was successfully completed by Donjor Karina
-
+This project was successfully completed by Oji Benedict Chukwuebuka
 Tasks 0. Create and setup your Git and GitHub account mandatory Score: 100.0% (Checks completed: 100.0%) Step 0 - Create an account on GitHub [if you do not have one already] You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free here
 
 Step 1 - Create a Personal Access Token on Github To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
